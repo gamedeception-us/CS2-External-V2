@@ -1,5 +1,6 @@
 visit https://gamedeception.us/
 
+
 navigate to login replace auth code
 example:
 AUTHKEY:KEY_CODE_HERE
@@ -12,6 +13,7 @@ The loader wont open if your subscription has run out, or trial has ended
 if you have questions message support, or add me on steam.
 
 Counter-Strike 2 Multi Hack
+<a href="https://i.ibb.co/TH2ZCvr/1.png">screenshot 1</a>
 ## FullyExternalCS2
 ### unetected by VAC
 ### Features
@@ -29,3 +31,4 @@ Counter-Strike 2 Multi Hack
 - Name
 - Enemy weapon
 - Enemy flags (Scoped, Flashed, Shifting, Shifting in scope)
+- 
