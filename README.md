@@ -13,7 +13,7 @@ if you have questions message support, or add me on steam.
 
 Counter-Strike 2 Multi Hack
 ## FullyExternalCS2
-### Detected by VAC
+### unetected by VAC
 ### Features
 
 #### heavily imporved AimBot, triggerbot works
